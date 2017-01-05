@@ -1,2 +1,4 @@
 # hello-world
-baby steps
+Ahoy Matey's!
+
+I simply don't know what I'm doing.
