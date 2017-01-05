@@ -1,4 +1,4 @@
 # hello-world
-Ahoy Matey's!
+Ahoy Mateys!
 
 I simply don't know what I'm doing.
